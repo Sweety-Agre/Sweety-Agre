@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Sweety Agre, a Computer Engineering student.<br>I’m passionate about Full stack  development and Web Development.<br>Backend & Core languages: Python, JavaScript, Java, C/C++,HTML5<br>Cloud & DevOps: Git/Github
+I’m Sweety Agre, a Computer Engineering student.<br>I’m passionate about Software development.<br>Backend & Core languages: Python, JavaScript, Java, C/C++,HTML5<br>Cloud & DevOps: Git/Github
 
 
 ## 🌐 Socials:
