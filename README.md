@@ -10,8 +10,6 @@ I’m Sweety Agre, a Computer Engineering student.<br>I’m passionate about Sof
 
 
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.c​")
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sweety-Agre&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
